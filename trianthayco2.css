@@ -1250,17 +1250,12 @@ textarea {
 }
 
 .handwriting {
-    font-family: 'Mali', cursive;
-    font-size: 21px;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 23px;
     font-weight: 400;
     font-style: normal;
-    line-height: 1.8;
-    letter-spacing: 0;
+    line-height: 1.7;
     color: #a95772;
-
-    white-space: pre-wrap;
-    overflow-wrap: break-word;
-    min-height: 200px;
 }
 
 /* CÂY BÚT */
